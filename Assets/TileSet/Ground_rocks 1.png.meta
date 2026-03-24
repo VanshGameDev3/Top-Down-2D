@@ -1,0 +1,4290 @@
+fileFormatVersion: 2
+guid: 86ec132fe6e8ef04fbee385e4bf5a4a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8846516149814655687
+    second: Ground_rocks 1_0
+  - first:
+      213: 1364594949424584912
+    second: Ground_rocks 1_1
+  - first:
+      213: -4283221228363855337
+    second: Ground_rocks 1_2
+  - first:
+      213: -75859737662313362
+    second: Ground_rocks 1_3
+  - first:
+      213: -6883912928211965562
+    second: Ground_rocks 1_4
+  - first:
+      213: -6262227137451374418
+    second: Ground_rocks 1_5
+  - first:
+      213: -7603191803764605287
+    second: Ground_rocks 1_6
+  - first:
+      213: -6790361586371763410
+    second: Ground_rocks 1_7
+  - first:
+      213: -2611019153350120200
+    second: Ground_rocks 1_8
+  - first:
+      213: 5870170682879793025
+    second: Ground_rocks 1_9
+  - first:
+      213: 4695888285783786791
+    second: Ground_rocks 1_10
+  - first:
+      213: -7338374058439111558
+    second: Ground_rocks 1_11
+  - first:
+      213: -2754221820937208219
+    second: Ground_rocks 1_12
+  - first:
+      213: -1285419018844972879
+    second: Ground_rocks 1_13
+  - first:
+      213: -4938180387588412925
+    second: Ground_rocks 1_14
+  - first:
+      213: 8797899436820842232
+    second: Ground_rocks 1_15
+  - first:
+      213: -407750297704590013
+    second: Ground_rocks 1_16
+  - first:
+      213: 4773833079749693478
+    second: Ground_rocks 1_17
+  - first:
+      213: 603876288877730700
+    second: Ground_rocks 1_18
+  - first:
+      213: -2725264302940159860
+    second: Ground_rocks 1_19
+  - first:
+      213: -7259147295021616845
+    second: Ground_rocks 1_20
+  - first:
+      213: -5781918651391308738
+    second: Ground_rocks 1_21
+  - first:
+      213: -1920753019150441002
+    second: Ground_rocks 1_22
+  - first:
+      213: -3725619004403384297
+    second: Ground_rocks 1_23
+  - first:
+      213: -8309211662325298886
+    second: Ground_rocks 1_24
+  - first:
+      213: 3818510930269182634
+    second: Ground_rocks 1_25
+  - first:
+      213: 8974910914323913259
+    second: Ground_rocks 1_26
+  - first:
+      213: -3889835255312311048
+    second: Ground_rocks 1_27
+  - first:
+      213: -965324859416076223
+    second: Ground_rocks 1_28
+  - first:
+      213: -7628276073903072358
+    second: Ground_rocks 1_29
+  - first:
+      213: -329207113380937214
+    second: Ground_rocks 1_30
+  - first:
+      213: -3547753758700015364
+    second: Ground_rocks 1_31
+  - first:
+      213: 4595821084894764828
+    second: Ground_rocks 1_32
+  - first:
+      213: -1782265687076548640
+    second: Ground_rocks 1_33
+  - first:
+      213: 7094153530946272410
+    second: Ground_rocks 1_34
+  - first:
+      213: 3111284990830890801
+    second: Ground_rocks 1_35
+  - first:
+      213: -7467835973773617274
+    second: Ground_rocks 1_36
+  - first:
+      213: 7715054898145534277
+    second: Ground_rocks 1_37
+  - first:
+      213: -498186324978197425
+    second: Ground_rocks 1_38
+  - first:
+      213: -1777270679685752876
+    second: Ground_rocks 1_39
+  - first:
+      213: 5021514730365333986
+    second: Ground_rocks 1_40
+  - first:
+      213: -1448656702623026441
+    second: Ground_rocks 1_41
+  - first:
+      213: -4570468625517841352
+    second: Ground_rocks 1_42
+  - first:
+      213: 3738651852060699728
+    second: Ground_rocks 1_43
+  - first:
+      213: -7157661261552597083
+    second: Ground_rocks 1_44
+  - first:
+      213: -5743929625571378855
+    second: Ground_rocks 1_45
+  - first:
+      213: 969089799095835662
+    second: Ground_rocks 1_46
+  - first:
+      213: -2570896009939156254
+    second: Ground_rocks 1_47
+  - first:
+      213: 8583903593226578691
+    second: Ground_rocks 1_48
+  - first:
+      213: -7078393435302466274
+    second: Ground_rocks 1_49
+  - first:
+      213: -4035810742142985813
+    second: Ground_rocks 1_50
+  - first:
+      213: 64101824603775789
+    second: Ground_rocks 1_51
+  - first:
+      213: -3170116439334917076
+    second: Ground_rocks 1_52
+  - first:
+      213: 2288594047853228487
+    second: Ground_rocks 1_53
+  - first:
+      213: 4675981772834002468
+    second: Ground_rocks 1_54
+  - first:
+      213: -8594182597384312722
+    second: Ground_rocks 1_55
+  - first:
+      213: -6602485698021230884
+    second: Ground_rocks 1_56
+  - first:
+      213: 4943250024846740827
+    second: Ground_rocks 1_57
+  - first:
+      213: 6332914532750191561
+    second: Ground_rocks 1_58
+  - first:
+      213: -8415317203366176464
+    second: Ground_rocks 1_59
+  - first:
+      213: -2417165059156406834
+    second: Ground_rocks 1_60
+  - first:
+      213: -2600847617524811581
+    second: Ground_rocks 1_61
+  - first:
+      213: 4422494204192851871
+    second: Ground_rocks 1_62
+  - first:
+      213: 7665877113202849238
+    second: Ground_rocks 1_63
+  - first:
+      213: 7840675297972406339
+    second: Ground_rocks 1_64
+  - first:
+      213: 7855597617062330634
+    second: Ground_rocks 1_65
+  - first:
+      213: -1301361950882964304
+    second: Ground_rocks 1_66
+  - first:
+      213: -8140913920391990437
+    second: Ground_rocks 1_67
+  - first:
+      213: -6134402299571016769
+    second: Ground_rocks 1_68
+  - first:
+      213: -7208161698887097412
+    second: Ground_rocks 1_69
+  - first:
+      213: 4527721033077189954
+    second: Ground_rocks 1_70
+  - first:
+      213: 7690300173604019575
+    second: Ground_rocks 1_71
+  - first:
+      213: -2848852238867734516
+    second: Ground_rocks 1_72
+  - first:
+      213: -1747079506762137061
+    second: Ground_rocks 1_73
+  - first:
+      213: 7443949705630442336
+    second: Ground_rocks 1_74
+  - first:
+      213: 3403611473771610203
+    second: Ground_rocks 1_75
+  - first:
+      213: -8308562082009160209
+    second: Ground_rocks 1_76
+  - first:
+      213: -7163796611200356342
+    second: Ground_rocks 1_77
+  - first:
+      213: -1947275248193306511
+    second: Ground_rocks 1_78
+  - first:
+      213: -4514627039368262031
+    second: Ground_rocks 1_79
+  - first:
+      213: 7092642557059072745
+    second: Ground_rocks 1_80
+  - first:
+      213: -58475311002493779
+    second: Ground_rocks 1_81
+  - first:
+      213: -7093257268335614073
+    second: Ground_rocks 1_82
+  - first:
+      213: -5601229751919749487
+    second: Ground_rocks 1_83
+  - first:
+      213: 1207674027863215833
+    second: Ground_rocks 1_84
+  - first:
+      213: -6334710028330986984
+    second: Ground_rocks 1_85
+  - first:
+      213: -2998678110688520398
+    second: Ground_rocks 1_86
+  - first:
+      213: -1574370891772343837
+    second: Ground_rocks 1_87
+  - first:
+      213: -3129591177852907916
+    second: Ground_rocks 1_88
+  - first:
+      213: -670884729294462231
+    second: Ground_rocks 1_89
+  - first:
+      213: -656603065920312676
+    second: Ground_rocks 1_90
+  - first:
+      213: -5868519335227490492
+    second: Ground_rocks 1_91
+  - first:
+      213: 8714462959544105274
+    second: Ground_rocks 1_92
+  - first:
+      213: -5623193291350456460
+    second: Ground_rocks 1_93
+  - first:
+      213: -5450861733346622385
+    second: Ground_rocks 1_94
+  - first:
+      213: 1280291929068295000
+    second: Ground_rocks 1_95
+  - first:
+      213: -4149198445819442625
+    second: Ground_rocks 1_96
+  - first:
+      213: -2853149036408932436
+    second: Ground_rocks 1_97
+  - first:
+      213: -6602122272838255174
+    second: Ground_rocks 1_98
+  - first:
+      213: 7289267238567696533
+    second: Ground_rocks 1_99
+  - first:
+      213: 3991994365389237780
+    second: Ground_rocks 1_100
+  - first:
+      213: -2211220494053002625
+    second: Ground_rocks 1_101
+  - first:
+      213: 4248080369243051348
+    second: Ground_rocks 1_102
+  - first:
+      213: 8070021205885395546
+    second: Ground_rocks 1_103
+  - first:
+      213: 2268420700484029346
+    second: Ground_rocks 1_104
+  - first:
+      213: -5676670692777351627
+    second: Ground_rocks 1_105
+  - first:
+      213: -3819759615978034342
+    second: Ground_rocks 1_106
+  - first:
+      213: 1218392076372990149
+    second: Ground_rocks 1_107
+  - first:
+      213: -2818404054772893955
+    second: Ground_rocks 1_108
+  - first:
+      213: -2533897712508019766
+    second: Ground_rocks 1_109
+  - first:
+      213: -6526031383696893829
+    second: Ground_rocks 1_110
+  - first:
+      213: 2000051385055191988
+    second: Ground_rocks 1_111
+  - first:
+      213: -4744625051385011855
+    second: Ground_rocks 1_112
+  - first:
+      213: 2424862269357095913
+    second: Ground_rocks 1_113
+  - first:
+      213: 4416314012574953392
+    second: Ground_rocks 1_114
+  - first:
+      213: -8638626362034360640
+    second: Ground_rocks 1_115
+  - first:
+      213: -6654236933680598335
+    second: Ground_rocks 1_116
+  - first:
+      213: 7130100882579359456
+    second: Ground_rocks 1_117
+  - first:
+      213: -6612937669850794037
+    second: Ground_rocks 1_118
+  - first:
+      213: 3219316369338476857
+    second: Ground_rocks 1_119
+  - first:
+      213: 4420303457750106908
+    second: Ground_rocks 1_120
+  - first:
+      213: 4571108896406935336
+    second: Ground_rocks 1_121
+  - first:
+      213: 8471216478732129091
+    second: Ground_rocks 1_122
+  - first:
+      213: 401444813956354464
+    second: Ground_rocks 1_123
+  - first:
+      213: 7272908485961477241
+    second: Ground_rocks 1_124
+  - first:
+      213: 6340971645890522852
+    second: Ground_rocks 1_125
+  - first:
+      213: 1625747007016546883
+    second: Ground_rocks 1_126
+  - first:
+      213: 9114382891783793081
+    second: Ground_rocks 1_127
+  - first:
+      213: -1742978186705917358
+    second: Ground_rocks 1_128
+  - first:
+      213: -7826913231517967853
+    second: Ground_rocks 1_129
+  - first:
+      213: -6379566564783706576
+    second: Ground_rocks 1_130
+  - first:
+      213: 8931324509068220502
+    second: Ground_rocks 1_131
+  - first:
+      213: 5383475815993241303
+    second: Ground_rocks 1_132
+  - first:
+      213: -1968946405989112237
+    second: Ground_rocks 1_133
+  - first:
+      213: 9222840857891570765
+    second: Ground_rocks 1_134
+  - first:
+      213: 2830331672097979495
+    second: Ground_rocks 1_135
+  - first:
+      213: 7070271687766706998
+    second: Ground_rocks 1_136
+  - first:
+      213: 2732100613263744650
+    second: Ground_rocks 1_137
+  - first:
+      213: 3582842786804320984
+    second: Ground_rocks 1_138
+  - first:
+      213: 7184259416823683997
+    second: Ground_rocks 1_139
+  - first:
+      213: -8854997247850518016
+    second: Ground_rocks 1_140
+  - first:
+      213: -2879428387126470510
+    second: Ground_rocks 1_141
+  - first:
+      213: -5313031066538952664
+    second: Ground_rocks 1_142
+  - first:
+      213: 4763626134724358532
+    second: Ground_rocks 1_143
+  - first:
+      213: -7891956444875631163
+    second: Ground_rocks 1_144
+  - first:
+      213: 7918955006083017541
+    second: Ground_rocks 1_145
+  - first:
+      213: -6167384458987630133
+    second: Ground_rocks 1_146
+  - first:
+      213: 1497156264305252973
+    second: Ground_rocks 1_147
+  - first:
+      213: -3889143039936834532
+    second: Ground_rocks 1_148
+  - first:
+      213: -676731525036344358
+    second: Ground_rocks 1_149
+  - first:
+      213: 3827138338954735070
+    second: Ground_rocks 1_150
+  - first:
+      213: -6489050692517851252
+    second: Ground_rocks 1_151
+  - first:
+      213: 267992977469724291
+    second: Ground_rocks 1_152
+  - first:
+      213: -6790232905851647000
+    second: Ground_rocks 1_153
+  - first:
+      213: 648553518091287883
+    second: Ground_rocks 1_154
+  - first:
+      213: -8072085667772566894
+    second: Ground_rocks 1_155
+  - first:
+      213: -5107513282415744544
+    second: Ground_rocks 1_156
+  - first:
+      213: 5815161447914871435
+    second: Ground_rocks 1_157
+  - first:
+      213: 1408966150146054764
+    second: Ground_rocks 1_158
+  - first:
+      213: -5059046383781150317
+    second: Ground_rocks 1_159
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ground_rocks 1_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1290
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9358a8ebe6cda3580800000000000000
+      internalID: -8846516149814655687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1303
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d89eb660e300f210800000000000000
+      internalID: 1364594949424584912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1306
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ac5fc7cf0fe84c0800000000000000
+      internalID: -4283221228363855337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1306
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c22e378fd72fef0800000000000000
+      internalID: -75859737662313362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1306
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689e4311aad6770a0800000000000000
+      internalID: -6883912928211965562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1312
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea84661e8991819a0800000000000000
+      internalID: -6262227137451374418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1232
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ef27186590c7690800000000000000
+      internalID: -7603191803764605287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1232
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e236ad33d1ac3c1a0800000000000000
+      internalID: -6790361586371763410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc23dee9ebc3cbd0800000000000000
+      internalID: -2611019153350120200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_9
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18756f37229077150800000000000000
+      internalID: 5870170682879793025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1232
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7258f0b14852b2140800000000000000
+      internalID: 4695888285783786791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1168
+        width: 144
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c8bc99cabd82a90800000000000000
+      internalID: -7338374058439111558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1168
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e786aa8d907c9d0800000000000000
+      internalID: -2754221820937208219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1178
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8d63a7636492ee0800000000000000
+      internalID: -1285419018844972879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_14
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1162
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aedf0e91f087bb0800000000000000
+      internalID: -4938180387588412925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1175
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6c05dacea681a70800000000000000
+      internalID: 8797899436820842232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1098
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345124cb341675af0800000000000000
+      internalID: -407750297704590013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1082
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6205d77a4ef004240800000000000000
+      internalID: 4773833079749693478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b96d60946616800800000000000000
+      internalID: 603876288877730700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1098
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8003383e8aed2ad0800000000000000
+      internalID: -2725264302940159860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1112
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331bffbeef3524b90800000000000000
+      internalID: -7259147295021616845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_21
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1116
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c8d97de9f72cfa0800000000000000
+      internalID: -5781918651391308738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1084
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d567404e4d1855e0800000000000000
+      internalID: -1920753019150441002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1072
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71087123141fb4cc0800000000000000
+      internalID: -3725619004403384297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_24
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1072
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3941976400cfac80800000000000000
+      internalID: -8309211662325298886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa14a1b5731ef430800000000000000
+      internalID: 3818510930269182634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a9d0bece94d8c70800000000000000
+      internalID: 8974910914323913259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc915cc177840ac0800000000000000
+      internalID: -3889835255312311048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140a6a5a72a7a92f0800000000000000
+      internalID: -965324859416076223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b556eb35be22690800000000000000
+      internalID: -7628276073903072358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1056
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202c565efdb6e6bf0800000000000000
+      internalID: -329207113380937214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_31
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 954
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0f026d0c8d3cec0800000000000000
+      internalID: -3547753758700015364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 967
+        width: 32
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f17605de2a7cf30800000000000000
+      internalID: 4595821084894764828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 970
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef4f6aecce1447e0800000000000000
+      internalID: -1782265687076548640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 970
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cb22acc0f737260800000000000000
+      internalID: 7094153530946272410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 970
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fca7107318d2b20800000000000000
+      internalID: 3111284990830890801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_36
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 976
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68717568fbaec5890800000000000000
+      internalID: -7467835973773617274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 896
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5412a92cd81611b60800000000000000
+      internalID: 7715054898145534277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 896
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c97bb4d261619f0800000000000000
+      internalID: -498186324978197425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d71d93bbbdd557e0800000000000000
+      internalID: -1777270679685752876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_40
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e131d9ca0100b540800000000000000
+      internalID: 5021514730365333986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_41
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 896
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f27aae776655ebe0800000000000000
+      internalID: -1448656702623026441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 832
+        width: 144
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834f0fe100f6290c0800000000000000
+      internalID: -4570468625517841352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 832
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c2fec1d0c52e330800000000000000
+      internalID: 3738651852060699728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_44
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 842
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7459a6101eaac90800000000000000
+      internalID: -7157661261552597083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 826
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959b9fc20767940b0800000000000000
+      internalID: -5743929625571378855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 839
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cdf8ea906e27d00800000000000000
+      internalID: 969089799095835662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 762
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e28b1d33b7525cd0800000000000000
+      internalID: -2570896009939156254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 746
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b287ca6d6202770800000000000000
+      internalID: 8583903593226578691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_49
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1de65c6cae74cd90800000000000000
+      internalID: -7078393435302466274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 771
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba99cdd338bedf7c0800000000000000
+      internalID: -4035810742142985813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_51
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 785
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2366f4154cb3e000800000000000000
+      internalID: 64101824603775789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_52
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 806
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ce0d8f4eb7104d0800000000000000
+      internalID: -3170116439334917076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_53
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 756
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c17d593928b2cf10800000000000000
+      internalID: 2288594047853228487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 752
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426d8f1e5ac64e040800000000000000
+      internalID: 4675981772834002468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_55
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 752
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68601c26745bb880800000000000000
+      internalID: -8594182597384312722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 682
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6f8d63d324f54a0800000000000000
+      internalID: -6602485698021230884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 698
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d4ee605b3f99440800000000000000
+      internalID: 4943250024846740827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 698
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbeb7dd63803e750800000000000000
+      internalID: 6332914532750191561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 698
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039102df699c63b80800000000000000
+      internalID: -8415317203366176464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_60
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 714
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd0f757f21847ed0800000000000000
+      internalID: -2417165059156406834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 650
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8338a2fdee7ebd0800000000000000
+      internalID: -2600847617524811581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 647
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97832e1c0bdf5d30800000000000000
+      internalID: 4422494204192851871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 650
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5b0407e9aa26a60800000000000000
+      internalID: 7665877113202849238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 650
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34843de44acafcc60800000000000000
+      internalID: 7840675297972406339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 653
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01c7677960b40d60800000000000000
+      internalID: 7855597617062330634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_66
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 647
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc59695332a0fde0800000000000000
+      internalID: -1301361950882964304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_67
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53b00cfbe9a50f80800000000000000
+      internalID: -8140913920391990437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_68
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbeab82c993edaa0800000000000000
+      internalID: -6134402299571016769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_69
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 640
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb32246102777fb90800000000000000
+      internalID: -7208161698887097412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d61aa6a42b5de30800000000000000
+      internalID: 4527721033077189954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_71
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ddacf434f69ba60800000000000000
+      internalID: 7690300173604019575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_72
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0066bc8bf7d678d0800000000000000
+      internalID: -2848852238867734516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12041de17021c7e0800000000000000
+      internalID: -1747079506762137061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 608
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063e9f941d83e4760800000000000000
+      internalID: 7443949705630442336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 605
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50c99f2a9e0c3f20800000000000000
+      internalID: 3403611473771610203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 592
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5609b9ece02bc80800000000000000
+      internalID: -8308562082009160209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_77
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 592
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00714200f4159c90800000000000000
+      internalID: -7163796611200356342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_78
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 605
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17007879a73e9f4e0800000000000000
+      internalID: -1947275248193306511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 538
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ec41190a2d851c0800000000000000
+      internalID: -4514627039368262031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 554
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e20354c3d02e6260800000000000000
+      internalID: 7092642557059072745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 554
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd093b301403ff0800000000000000
+      internalID: -58475311002493779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 554
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787e56c9810bf8d90800000000000000
+      internalID: -7093257268335614073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_83
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 570
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196597b973f6442b0800000000000000
+      internalID: -5601229751919749487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_84
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 506
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de804b312582c010800000000000000
+      internalID: 1207674027863215833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 503
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8121a3ebac69618a0800000000000000
+      internalID: -6334710028330986984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 506
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237dba0652e8266d0800000000000000
+      internalID: -2998678110688520398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 506
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9c13be306b62ae0800000000000000
+      internalID: -1574370891772343837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 509
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e81efa7657194d0800000000000000
+      internalID: -3129591177852907916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_89
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 503
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e26b29a4e980b6f0800000000000000
+      internalID: -670884729294462231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_90
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 496
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a23698df643e6f0800000000000000
+      internalID: -656603065920312676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_91
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 496
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ff042e1c4de8ea0800000000000000
+      internalID: -5868519335227490492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_92
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 496
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39fce7f3edffe870800000000000000
+      internalID: 8714462959544105274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47742b59e7766f1b0800000000000000
+      internalID: -5623193291350456460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_94
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 464
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44ca182226aa54b0800000000000000
+      internalID: -5450861733346622385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 464
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8535ae8e9b284c110800000000000000
+      internalID: 1280291929068295000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_96
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 464
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a44563ff51b66c0800000000000000
+      internalID: -4149198445819442625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_97
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 464
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7f89961149768d0800000000000000
+      internalID: -2853149036408932436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_98
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 448
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdf7cbb5cc8064a0800000000000000
+      internalID: -6602122272838255174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 448
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59858bbeeeda82560800000000000000
+      internalID: 7289267238567696533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ee26e89b9666730800000000000000
+      internalID: 3991994365389237780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_101
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 452
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7238eb1daa2051e0800000000000000
+      internalID: -2211220494053002625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_102
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 448
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455da0aa69634fa30800000000000000
+      internalID: 4248080369243051348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 378
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a522baaa7897eff60800000000000000
+      internalID: 8070021205885395546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 394
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab4e75cb9c0b7f10800000000000000
+      internalID: 2268420700484029346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_105
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 394
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536a22ac41a6831b0800000000000000
+      internalID: -5676670692777351627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 394
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b2f320edc7dfac0800000000000000
+      internalID: -3819759615978034342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_107
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 410
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8dc5d532998e010800000000000000
+      internalID: 1218392076372990149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_108
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 346
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6bdb9d17403e8d0800000000000000
+      internalID: -2818404054772893955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_109
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 343
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbd8c4a479c5dcd0800000000000000
+      internalID: -2533897712508019766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 346
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7812bd6801ee65a0800000000000000
+      internalID: -6526031383696893829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 346
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b32eb2532c91cb10800000000000000
+      internalID: 2000051385055191988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 349
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171e6c367a4b72eb0800000000000000
+      internalID: -4744625051385011855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_113
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 343
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebf642f267d6a120800000000000000
+      internalID: 2424862269357095913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_114
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 336
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf2c102236e94d30800000000000000
+      internalID: 4416314012574953392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_115
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceed97d71f6d1880800000000000000
+      internalID: -8638626362034360640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_116
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 336
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2fea4b3c667a3a0800000000000000
+      internalID: -6654236933680598335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_117
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 304
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e687dec9f433f260800000000000000
+      internalID: 7130100882579359456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc77eb2e9302a34a0800000000000000
+      internalID: -6612937669850794037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_119
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93925066e2f4dac20800000000000000
+      internalID: 3219316369338476857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_120
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1340a63392185d30800000000000000
+      internalID: 4420303457750106908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82796ff8257df6f30800000000000000
+      internalID: 4571108896406935336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 234
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3439346418ecf8570800000000000000
+      internalID: 8471216478732129091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 250
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a19acc6ee7329500800000000000000
+      internalID: 401444813956354464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_124
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 250
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c68a50cbf8ee460800000000000000
+      internalID: 7272908485961477241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_125
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 250
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eee024bd18aff750800000000000000
+      internalID: 6340971645890522852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_126
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 266
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34230ef0a40df8610800000000000000
+      internalID: 1625747007016546883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_127
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 202
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9aba333facc7e70800000000000000
+      internalID: 9114382891783793081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_128
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 199
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aa32ae292bfc7e0800000000000000
+      internalID: -1742978186705917358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_129
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 202
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a119b72e7316390800000000000000
+      internalID: -7826913231517967853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_130
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 202
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03eab1d720a3777a0800000000000000
+      internalID: -6379566564783706576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_131
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 205
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65850c0225072fb70800000000000000
+      internalID: 8931324509068220502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_132
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 199
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deee255bb2f5ba40800000000000000
+      internalID: 5383475815993241303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_133
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356ac39fca5eca4e0800000000000000
+      internalID: -1968946405989112237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_134
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44069245ec1eff70800000000000000
+      internalID: 9222840857891570765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_135
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 192
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cffe7f8ab574720800000000000000
+      internalID: 2830331672097979495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b06ded3a6ae1260800000000000000
+      internalID: 7070271687766706998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e5630580f5ae520800000000000000
+      internalID: 2732100613263744650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daca892880d8b130800000000000000
+      internalID: 3582842786804320984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_139
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bd70230ed93b360800000000000000
+      internalID: 7184259416823683997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_140
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aeeca3beabc1580800000000000000
+      internalID: -8854997247850518016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_141
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 90
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298962543273a08d0800000000000000
+      internalID: -2879428387126470510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_142
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 106
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828b45605625446b0800000000000000
+      internalID: -5313031066538952664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_143
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 106
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48133031bbccb1240800000000000000
+      internalID: 4763626134724358532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_144
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 106
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c555504d632a7290800000000000000
+      internalID: -7891956444875631163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_145
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 122
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b21e12f97c5ed60800000000000000
+      internalID: 7918955006083017541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_146
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 58
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc117c0c28c096aa0800000000000000
+      internalID: -6167384458987630133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 55
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a5a2ba0b7f6c410800000000000000
+      internalID: 1497156264305252973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 58
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14d1efb20df60ac0800000000000000
+      internalID: -3889143039936834532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_149
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 58
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb76e17344cb96f0800000000000000
+      internalID: -676731525036344358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 61
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddecafca0abc1530800000000000000
+      internalID: 3827138338954735070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_151
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 55
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f88fe86c242f5a0800000000000000
+      internalID: -6489050692517851252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_152
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386d160713a18b300800000000000000
+      internalID: 267992977469724291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_153
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb4b88f52f34c1a0800000000000000
+      internalID: -6790232905851647000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_154
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d39af0dff100900800000000000000
+      internalID: 648553518091287883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f4e75ad03aff80800000000000000
+      internalID: -8072085667772566894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_156
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9250cfab77e19b0800000000000000
+      internalID: -5107513282415744544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_157
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a138ed68a93b050800000000000000
+      internalID: 5815161447914871435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_158
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a5100af37ad8310800000000000000
+      internalID: 1408966150146054764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground_rocks 1_159
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39100803e18aac9b0800000000000000
+      internalID: -5059046383781150317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e2224b19124f314ba43e31494f45249
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ground_rocks 1_0: -8846516149814655687
+      Ground_rocks 1_1: 1364594949424584912
+      Ground_rocks 1_10: 4695888285783786791
+      Ground_rocks 1_100: 3991994365389237780
+      Ground_rocks 1_101: -2211220494053002625
+      Ground_rocks 1_102: 4248080369243051348
+      Ground_rocks 1_103: 8070021205885395546
+      Ground_rocks 1_104: 2268420700484029346
+      Ground_rocks 1_105: -5676670692777351627
+      Ground_rocks 1_106: -3819759615978034342
+      Ground_rocks 1_107: 1218392076372990149
+      Ground_rocks 1_108: -2818404054772893955
+      Ground_rocks 1_109: -2533897712508019766
+      Ground_rocks 1_11: -7338374058439111558
+      Ground_rocks 1_110: -6526031383696893829
+      Ground_rocks 1_111: 2000051385055191988
+      Ground_rocks 1_112: -4744625051385011855
+      Ground_rocks 1_113: 2424862269357095913
+      Ground_rocks 1_114: 4416314012574953392
+      Ground_rocks 1_115: -8638626362034360640
+      Ground_rocks 1_116: -6654236933680598335
+      Ground_rocks 1_117: 7130100882579359456
+      Ground_rocks 1_118: -6612937669850794037
+      Ground_rocks 1_119: 3219316369338476857
+      Ground_rocks 1_12: -2754221820937208219
+      Ground_rocks 1_120: 4420303457750106908
+      Ground_rocks 1_121: 4571108896406935336
+      Ground_rocks 1_122: 8471216478732129091
+      Ground_rocks 1_123: 401444813956354464
+      Ground_rocks 1_124: 7272908485961477241
+      Ground_rocks 1_125: 6340971645890522852
+      Ground_rocks 1_126: 1625747007016546883
+      Ground_rocks 1_127: 9114382891783793081
+      Ground_rocks 1_128: -1742978186705917358
+      Ground_rocks 1_129: -7826913231517967853
+      Ground_rocks 1_13: -1285419018844972879
+      Ground_rocks 1_130: -6379566564783706576
+      Ground_rocks 1_131: 8931324509068220502
+      Ground_rocks 1_132: 5383475815993241303
+      Ground_rocks 1_133: -1968946405989112237
+      Ground_rocks 1_134: 9222840857891570765
+      Ground_rocks 1_135: 2830331672097979495
+      Ground_rocks 1_136: 7070271687766706998
+      Ground_rocks 1_137: 2732100613263744650
+      Ground_rocks 1_138: 3582842786804320984
+      Ground_rocks 1_139: 7184259416823683997
+      Ground_rocks 1_14: -4938180387588412925
+      Ground_rocks 1_140: -8854997247850518016
+      Ground_rocks 1_141: -2879428387126470510
+      Ground_rocks 1_142: -5313031066538952664
+      Ground_rocks 1_143: 4763626134724358532
+      Ground_rocks 1_144: -7891956444875631163
+      Ground_rocks 1_145: 7918955006083017541
+      Ground_rocks 1_146: -6167384458987630133
+      Ground_rocks 1_147: 1497156264305252973
+      Ground_rocks 1_148: -3889143039936834532
+      Ground_rocks 1_149: -676731525036344358
+      Ground_rocks 1_15: 8797899436820842232
+      Ground_rocks 1_150: 3827138338954735070
+      Ground_rocks 1_151: -6489050692517851252
+      Ground_rocks 1_152: 267992977469724291
+      Ground_rocks 1_153: -6790232905851647000
+      Ground_rocks 1_154: 648553518091287883
+      Ground_rocks 1_155: -8072085667772566894
+      Ground_rocks 1_156: -5107513282415744544
+      Ground_rocks 1_157: 5815161447914871435
+      Ground_rocks 1_158: 1408966150146054764
+      Ground_rocks 1_159: -5059046383781150317
+      Ground_rocks 1_16: -407750297704590013
+      Ground_rocks 1_17: 4773833079749693478
+      Ground_rocks 1_18: 603876288877730700
+      Ground_rocks 1_19: -2725264302940159860
+      Ground_rocks 1_2: -4283221228363855337
+      Ground_rocks 1_20: -7259147295021616845
+      Ground_rocks 1_21: -5781918651391308738
+      Ground_rocks 1_22: -1920753019150441002
+      Ground_rocks 1_23: -3725619004403384297
+      Ground_rocks 1_24: -8309211662325298886
+      Ground_rocks 1_25: 3818510930269182634
+      Ground_rocks 1_26: 8974910914323913259
+      Ground_rocks 1_27: -3889835255312311048
+      Ground_rocks 1_28: -965324859416076223
+      Ground_rocks 1_29: -7628276073903072358
+      Ground_rocks 1_3: -75859737662313362
+      Ground_rocks 1_30: -329207113380937214
+      Ground_rocks 1_31: -3547753758700015364
+      Ground_rocks 1_32: 4595821084894764828
+      Ground_rocks 1_33: -1782265687076548640
+      Ground_rocks 1_34: 7094153530946272410
+      Ground_rocks 1_35: 3111284990830890801
+      Ground_rocks 1_36: -7467835973773617274
+      Ground_rocks 1_37: 7715054898145534277
+      Ground_rocks 1_38: -498186324978197425
+      Ground_rocks 1_39: -1777270679685752876
+      Ground_rocks 1_4: -6883912928211965562
+      Ground_rocks 1_40: 5021514730365333986
+      Ground_rocks 1_41: -1448656702623026441
+      Ground_rocks 1_42: -4570468625517841352
+      Ground_rocks 1_43: 3738651852060699728
+      Ground_rocks 1_44: -7157661261552597083
+      Ground_rocks 1_45: -5743929625571378855
+      Ground_rocks 1_46: 969089799095835662
+      Ground_rocks 1_47: -2570896009939156254
+      Ground_rocks 1_48: 8583903593226578691
+      Ground_rocks 1_49: -7078393435302466274
+      Ground_rocks 1_5: -6262227137451374418
+      Ground_rocks 1_50: -4035810742142985813
+      Ground_rocks 1_51: 64101824603775789
+      Ground_rocks 1_52: -3170116439334917076
+      Ground_rocks 1_53: 2288594047853228487
+      Ground_rocks 1_54: 4675981772834002468
+      Ground_rocks 1_55: -8594182597384312722
+      Ground_rocks 1_56: -6602485698021230884
+      Ground_rocks 1_57: 4943250024846740827
+      Ground_rocks 1_58: 6332914532750191561
+      Ground_rocks 1_59: -8415317203366176464
+      Ground_rocks 1_6: -7603191803764605287
+      Ground_rocks 1_60: -2417165059156406834
+      Ground_rocks 1_61: -2600847617524811581
+      Ground_rocks 1_62: 4422494204192851871
+      Ground_rocks 1_63: 7665877113202849238
+      Ground_rocks 1_64: 7840675297972406339
+      Ground_rocks 1_65: 7855597617062330634
+      Ground_rocks 1_66: -1301361950882964304
+      Ground_rocks 1_67: -8140913920391990437
+      Ground_rocks 1_68: -6134402299571016769
+      Ground_rocks 1_69: -7208161698887097412
+      Ground_rocks 1_7: -6790361586371763410
+      Ground_rocks 1_70: 4527721033077189954
+      Ground_rocks 1_71: 7690300173604019575
+      Ground_rocks 1_72: -2848852238867734516
+      Ground_rocks 1_73: -1747079506762137061
+      Ground_rocks 1_74: 7443949705630442336
+      Ground_rocks 1_75: 3403611473771610203
+      Ground_rocks 1_76: -8308562082009160209
+      Ground_rocks 1_77: -7163796611200356342
+      Ground_rocks 1_78: -1947275248193306511
+      Ground_rocks 1_79: -4514627039368262031
+      Ground_rocks 1_8: -2611019153350120200
+      Ground_rocks 1_80: 7092642557059072745
+      Ground_rocks 1_81: -58475311002493779
+      Ground_rocks 1_82: -7093257268335614073
+      Ground_rocks 1_83: -5601229751919749487
+      Ground_rocks 1_84: 1207674027863215833
+      Ground_rocks 1_85: -6334710028330986984
+      Ground_rocks 1_86: -2998678110688520398
+      Ground_rocks 1_87: -1574370891772343837
+      Ground_rocks 1_88: -3129591177852907916
+      Ground_rocks 1_89: -670884729294462231
+      Ground_rocks 1_9: 5870170682879793025
+      Ground_rocks 1_90: -656603065920312676
+      Ground_rocks 1_91: -5868519335227490492
+      Ground_rocks 1_92: 8714462959544105274
+      Ground_rocks 1_93: -5623193291350456460
+      Ground_rocks 1_94: -5450861733346622385
+      Ground_rocks 1_95: 1280291929068295000
+      Ground_rocks 1_96: -4149198445819442625
+      Ground_rocks 1_97: -2853149036408932436
+      Ground_rocks 1_98: -6602122272838255174
+      Ground_rocks 1_99: 7289267238567696533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

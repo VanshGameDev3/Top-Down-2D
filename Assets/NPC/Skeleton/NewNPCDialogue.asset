@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 665ee69b3d139ce44a358796064fb2f3, type: 3}
+  m_Name: NewNPCDialogue
+  m_EditorClassIdentifier: 
+  npcName: Skeleton Guy
+  npcPotrait: {fileID: 21300000, guid: a49a3e263ceb14544aa897a69264c811, type: 3}
+  dialogueLines:
+  - "Oh\u2026 a living one."
+  - You smell loud. Hearts always do.
+  - "Don\u2019t worry, I\u2019m not hungry. I misplaced my stomach a few centuries
+    ago."
+  - Most people who come here scream first, run second, and die third.
+  - "You skipped the screaming. That\u2019s new."
+  - "I\u2019ll be here when you return\u2026"
+  - "or when you don\u2019t..."
+  typingSpeed: 0.07
+  voiceSound: {fileID: 8300000, guid: d0f931144c4bdff41a0803b5165edd9c, type: 3}
+  voicePitch: 1
+  autoProgressLines: 01010101010100
+  autoProgressDelay: 1.5
